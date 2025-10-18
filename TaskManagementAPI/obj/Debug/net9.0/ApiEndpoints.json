@@ -455,42 +455,5 @@
         "StatusCode": 200
       }
     ]
-  },
-  {
-    "ContainingType": "TaskManagementAPI.Controllers.SubTasksController",
-    "Method": "ReorderSubTasks",
-    "RelativePath": "api/Tasks/{taskId}/SubTasks/reorder",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "taskId",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "subTaskIds",
-        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "TaskManagementAPI.Controllers.TasksController",
-    "Method": "ReorderTasks",
-    "RelativePath": "api/Tasks/reorder",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "taskIds",
-        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
   }
 ]

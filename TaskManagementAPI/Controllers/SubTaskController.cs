@@ -333,39 +333,5 @@ namespace TaskManagementAPI.Controllers
 
             return Ok(new { message = "SubTask deleted successfully" });
         }
-
-        // PUT: api/Tasks/{taskId}/SubTasks/reorder
-        [HttpPut("reorder")]
-        public async Task<IActionResult> ReorderSubTasks(int taskId, [FromBody] List<int> subTaskIds)
-        {
-            var userId = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier)?.Value ?? "0");
-
-            // Verify task belongs to user
-            var task = await _context.Tasks.FirstOrDefaultAsync(t => t.Id == taskId && t.UserId == userId);
-            if (task == null)
-            {
-                return NotFound(new { message = "Task not found" });
-            }
-
-            var subTasks = await _context.SubTasks
-                .Where(st => st.TaskId == taskId && subTaskIds.Contains(st.Id))
-                .ToListAsync();
-
-            if (subTasks.Count != subTaskIds.Count)
-            {
-                return BadRequest(new { message = "Invalid subtask IDs provided" });
-            }
-
-            for (int i = 0; i < subTaskIds.Count; i++)
-            {
-                var subTask = subTasks.First(st => st.Id == subTaskIds[i]);
-                subTask.DisplayOrder = i + 1;
-                subTask.UpdatedAt = DateTime.UtcNow;
-            }
-
-            await _context.SaveChangesAsync();
-
-            return Ok(new { message = "SubTasks reordered successfully" });
-        }
     }
 }

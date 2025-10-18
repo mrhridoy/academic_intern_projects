@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09BE19A6-F677-4ECB-A958-2DC36F15F99A}|TaskManagementAPI.csproj|g:\\academic internship\\academic_intern_projects\\taskmanagementapi\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09BE19A6-F677-4ECB-A958-2DC36F15F99A}|TaskManagementAPI.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09BE19A6-F677-4ECB-A958-2DC36F15F99A}|TaskManagementAPI.csproj|g:\\academic internship\\academic_intern_projects\\taskmanagementapi\\controllers\\subtaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BE19A6-F677-4ECB-A958-2DC36F15F99A}|TaskManagementAPI.csproj|solutionrelative:controllers\\subtaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BE19A6-F677-4ECB-A958-2DC36F15F99A}|TaskManagementAPI.csproj|g:\\academic internship\\academic_intern_projects\\taskmanagementapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BE19A6-F677-4ECB-A958-2DC36F15F99A}|TaskManagementAPI.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09BE19A6-F677-4ECB-A958-2DC36F15F99A}|TaskManagementAPI.csproj|g:\\academic internship\\academic_intern_projects\\taskmanagementapi\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09BE19A6-F677-4ECB-A958-2DC36F15F99A}|TaskManagementAPI.csproj|solutionrelative:entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BE19A6-F677-4ECB-A958-2DC36F15F99A}|TaskManagementAPI.csproj|g:\\academic internship\\academic_intern_projects\\taskmanagementapi\\dtos\\taskupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BE19A6-F677-4ECB-A958-2DC36F15F99A}|TaskManagementAPI.csproj|solutionrelative:dtos\\taskupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BE19A6-F677-4ECB-A958-2DC36F15F99A}|TaskManagementAPI.csproj|g:\\academic internship\\academic_intern_projects\\taskmanagementapi\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BE19A6-F677-4ECB-A958-2DC36F15F99A}|TaskManagementAPI.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09BE19A6-F677-4ECB-A958-2DC36F15F99A}|TaskManagementAPI.csproj|g:\\academic internship\\academic_intern_projects\\taskmanagementapi\\entities\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{09BE19A6-F677-4ECB-A958-2DC36F15F99A}|TaskManagementAPI.csproj|solutionrelative:dtos\\tasksearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09BE19A6-F677-4ECB-A958-2DC36F15F99A}|TaskManagementAPI.csproj|g:\\academic internship\\academic_intern_projects\\taskmanagementapi\\dtos\\taskupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09BE19A6-F677-4ECB-A958-2DC36F15F99A}|TaskManagementAPI.csproj|solutionrelative:dtos\\taskupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{09BE19A6-F677-4ECB-A958-2DC36F15F99A}|TaskManagementAPI.csproj|g:\\academic internship\\academic_intern_projects\\taskmanagementapi\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09BE19A6-F677-4ECB-A958-2DC36F15F99A}|TaskManagementAPI.csproj|solutionrelative:dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -55,6 +63,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SubTaskController.cs",
+              "DocumentMoniker": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\Controllers\\SubTaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SubTaskController.cs",
+              "ToolTip": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\Controllers\\SubTaskController.cs",
+              "RelativeToolTip": "Controllers\\SubTaskController.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAiwE8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:34:21.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TasksController.cs",
+              "ToolTip": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Controllers\\TasksController.cs",
+              "ViewState": "AgIAANkBAAAAAAAAAAAqwOMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:33:50.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Entities\\User.cs",
@@ -67,46 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Task.cs",
-              "DocumentMoniker": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\Entities\\Task.cs",
-              "RelativeDocumentMoniker": "Entities\\Task.cs",
-              "ToolTip": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\Entities\\Task.cs",
-              "RelativeToolTip": "Entities\\Task.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T07:47:00.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SubTask.cs",
-              "DocumentMoniker": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\Entities\\SubTask.cs",
-              "RelativeDocumentMoniker": "Entities\\SubTask.cs",
-              "ToolTip": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\Entities\\SubTask.cs",
-              "RelativeToolTip": "Entities\\SubTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T07:46:57.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PagedResultDto.cs",
-              "DocumentMoniker": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\DTOs\\PagedResultDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\PagedResultDto.cs",
-              "ToolTip": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\DTOs\\PagedResultDto.cs",
-              "RelativeToolTip": "DTOs\\PagedResultDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T07:46:52.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\DTOs\\RegisterDto.cs",
               "RelativeDocumentMoniker": "DTOs\\RegisterDto.cs",
@@ -114,12 +109,11 @@
               "RelativeToolTip": "DTOs\\RegisterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T07:46:50.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T07:46:50.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "TaskDto.cs",
               "DocumentMoniker": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\DTOs\\TaskDto.cs",
               "RelativeDocumentMoniker": "DTOs\\TaskDto.cs",
@@ -127,12 +121,11 @@
               "RelativeToolTip": "DTOs\\TaskDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T07:46:46.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T07:46:46.591Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\DTOs\\LoginDto.cs",
               "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
@@ -140,12 +133,36 @@
               "RelativeToolTip": "DTOs\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T07:38:17.406Z",
+              "WhenOpened": "2025-10-18T07:38:17.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task.cs",
+              "DocumentMoniker": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\Entities\\Task.cs",
+              "RelativeDocumentMoniker": "Entities\\Task.cs",
+              "ToolTip": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\Entities\\Task.cs",
+              "RelativeToolTip": "Entities\\Task.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:47:00.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "PagedResultDto.cs",
+              "DocumentMoniker": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\DTOs\\PagedResultDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PagedResultDto.cs",
+              "ToolTip": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\DTOs\\PagedResultDto.cs",
+              "RelativeToolTip": "DTOs\\PagedResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:46:52.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "TaskSearchDto.cs",
               "DocumentMoniker": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\DTOs\\TaskSearchDto.cs",
               "RelativeDocumentMoniker": "DTOs\\TaskSearchDto.cs",
@@ -153,25 +170,36 @@
               "RelativeToolTip": "DTOs\\TaskSearchDto.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T07:46:43.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T07:46:43.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "TaskUpdateDto.cs",
               "DocumentMoniker": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\DTOs\\TaskUpdateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\TaskUpdateDto.cs",
               "ToolTip": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\DTOs\\TaskUpdateDto.cs",
               "RelativeToolTip": "DTOs\\TaskUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-18T07:46:41.567Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "SubTask.cs",
+              "DocumentMoniker": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\Entities\\SubTask.cs",
+              "RelativeDocumentMoniker": "Entities\\SubTask.cs",
+              "ToolTip": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\Entities\\SubTask.cs",
+              "RelativeToolTip": "Entities\\SubTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:46:57.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "TokenDto.cs",
               "DocumentMoniker": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\DTOs\\TokenDto.cs",
               "RelativeDocumentMoniker": "DTOs\\TokenDto.cs",
@@ -179,8 +207,7 @@
               "RelativeToolTip": "DTOs\\TokenDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T07:46:40.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T07:46:40.641Z"
             }
           ]
         }

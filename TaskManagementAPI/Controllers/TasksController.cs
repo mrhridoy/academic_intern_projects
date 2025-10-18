@@ -481,26 +481,6 @@ public class TasksController : ControllerBase
         return NoContent();
     }
 
-    [HttpPut("reorder")]
-    public async Task<ActionResult> ReorderTasks([FromBody] List<int> taskIds)
-    {
-        var userId = GetUserId();
-
-        for (int i = 0; i < taskIds.Count; i++)
-        {
-            var task = await _context.Tasks.FirstOrDefaultAsync(t => t.Id == taskIds[i] && t.UserId == userId);
-            if (task != null)
-            {
-                task.DisplayOrder = i + 1;
-                task.UpdatedAt = DateTime.UtcNow;
-            }
-        }
-
-        await _context.SaveChangesAsync();
-
-        return Ok(new { message = "Tasks reordered successfully" });
-    }
-
     [HttpDelete("{id}")]
     public async Task<ActionResult> DeleteTask(int id)
     {
