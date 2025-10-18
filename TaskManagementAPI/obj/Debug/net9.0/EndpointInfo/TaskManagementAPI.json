@@ -942,10 +942,6 @@
             "maxLength": 100,
             "minLength": 6,
             "type": "string"
-          },
-          "roleId": {
-            "type": "integer",
-            "format": "int32"
           }
         },
         "additionalProperties": false

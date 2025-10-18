@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Internship Projects\\TaskManagementAPI\\TaskManagementAPI.csproj": {}
+    "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\TaskManagementAPI.csproj": {}
   },
   "projects": {
-    "G:\\Internship Projects\\TaskManagementAPI\\TaskManagementAPI.csproj": {
+    "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\TaskManagementAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Internship Projects\\TaskManagementAPI\\TaskManagementAPI.csproj",
+        "projectUniqueName": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\TaskManagementAPI.csproj",
         "projectName": "TaskManagementAPI",
-        "projectPath": "G:\\Internship Projects\\TaskManagementAPI\\TaskManagementAPI.csproj",
+        "projectPath": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\TaskManagementAPI.csproj",
         "packagesPath": "C:\\Users\\Humayra\\.nuget\\packages\\",
-        "outputPath": "G:\\Internship Projects\\TaskManagementAPI\\obj\\",
+        "outputPath": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

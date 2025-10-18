@@ -1,6 +1,6 @@
+wwwroot\uploads\tasks\45147691-3e10-4c50-bd17-07c770bfec5b.png
+wwwroot\uploads\tasks\6a4e3b22-8593-4e5e-a588-5c4c0b64f8c8.jpg
 wwwroot\uploads\tasks\9d979184-36a4-4103-b9db-be1373939a9f.png
 wwwroot\uploads\tasks\anything.jpeg
 wwwroot\uploads\tasks\Explore Page.JPG
 wwwroot\uploads\tasks\images.jpeg
-wwwroot\uploads\tasks\45147691-3e10-4c50-bd17-07c770bfec5b.png
-wwwroot\uploads\tasks\6a4e3b22-8593-4e5e-a588-5c4c0b64f8c8.jpg

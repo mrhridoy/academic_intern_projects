@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y0TzIuHCsXA=",
+  "dgSpecHash": "v+W/TKrLXsw=",
   "success": true,
-  "projectFilePath": "G:\\Internship Projects\\TaskManagementAPI\\TaskManagementAPI.csproj",
+  "projectFilePath": "G:\\Academic Internship\\academic_intern_projects\\TaskManagementAPI\\TaskManagementAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Humayra\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Humayra\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
